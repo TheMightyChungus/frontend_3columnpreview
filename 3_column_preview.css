@@ -87,7 +87,7 @@ p{
 
 
 #l1{
-    color: white;
+    color: hsl(31, 77%, 52%);
     font-weight:100;
     font-size: .8em;
     position: relative;
@@ -97,7 +97,7 @@ p{
 
 
 #l2{
-    color: white;
+    color: hsl(184, 100%, 22%);
     font-weight:100;
     font-size: .8em;
     position: relative;
@@ -108,9 +108,11 @@ p{
 
 
 #l3{
-    color: white;
+    color: hsl(179, 100%, 13%);
     font-weight:100;
     font-size: .8em;
     position: relative;
     bottom: 15%;
 }
+
+

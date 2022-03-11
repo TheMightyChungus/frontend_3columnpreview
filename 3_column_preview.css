@@ -1,0 +1,116 @@
+* {
+    padding:0;
+    margin:0;
+    border-radius: 3%;
+}
+body{
+    display: flex;
+    height: 100vh;
+    width: 100vh;
+    width: 1440px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+
+    
+
+}
+
+#container{
+    display: flex;
+    height: 550px;
+    width: 60%;
+    justify-content: space-evenly;
+
+}
+
+
+img {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
+h1{
+    font-family: "Lexend Deca", sans-serif;
+}
+h2, p{
+    font-family: "Lexend Deca", sans-serif;
+}
+h1{
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 10%;
+    color: white;
+}
+
+h2{
+    margin-top: 3em;
+    margin-left: 15%;
+    /* Makes Button Round */ 
+    width: 55%;
+    height: 8%;
+    /* End Round Button*/ 
+    padding-top: 20px;
+    border-radius: 50px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+}
+
+.box{
+    margin-right: -55px;
+}
+
+p{
+    color: white;
+    width: 60%;
+    font-size: 15px;
+    line-height: 2em;
+    margin-left: 15%;
+    margin-top: 50px;
+    text-align: left;
+}
+.box:nth-child(1){
+    background-color: hsl(31, 77%, 52%);
+
+}
+
+.box:nth-child(2){
+    background-color: hsl(184, 100%, 22%);
+
+}
+
+.box:nth-child(3){
+    background-color: hsl(179, 100%, 13%);
+}
+
+
+#l1{
+    color: white;
+    font-weight:100;
+    font-size: .8em;
+    position: relative;
+    bottom: 15%;
+    
+}
+
+
+#l2{
+    color: white;
+    font-weight:100;
+    font-size: .8em;
+    position: relative;
+    bottom: 15%;
+
+}
+
+
+
+#l3{
+    color: white;
+    font-weight:100;
+    font-size: .8em;
+    position: relative;
+    bottom: 15%;
+}
